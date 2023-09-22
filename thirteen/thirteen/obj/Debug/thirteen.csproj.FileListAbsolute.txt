@@ -1,0 +1,14 @@
+D:\proj\lw\thirteen\thirteen\bin\Debug\thirteen.exe
+D:\proj\lw\thirteen\thirteen\bin\Debug\thirteen.pdb
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.csproj.AssemblyReference.cache
+D:\proj\lw\thirteen\thirteen\obj\Debug\MainWindow.g.cs
+D:\proj\lw\thirteen\thirteen\obj\Debug\App.g.cs
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen_MarkupCompile.cache
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen_MarkupCompile.lref
+D:\proj\lw\thirteen\thirteen\obj\Debug\MainWindow.baml
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.g.resources
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.Properties.Resources.resources
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.csproj.GenerateResource.cache
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.csproj.CoreCompileInputs.cache
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.exe
+D:\proj\lw\thirteen\thirteen\obj\Debug\thirteen.pdb
